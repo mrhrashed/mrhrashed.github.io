@@ -6,5 +6,5 @@ Muhammad Rashed is a Ph.D. candidate in Computer Engineering at University of Ce
 
 ## Acknowledgement
 
-The jemdoc codes are adapted from [jem/jemdoc](https://github.com/jem/jemdoc). The css file is adapted from [jiangxjames/jiangxjames.github.io](https://github.com/jiangxjames/jiangxjames.github.io).
+The jemdoc codes are adapted from [jem/jemdoc](https://github.com/jem/jemdoc). The css file is adapted from [jiangxjames/jiangxjames.github.io](https://github.com/jiangxjames/jiangxjames.github.io). The html files are inspired from Xiaoxuan Yang's website (https://xiaoxuan-yang.github.io/).
 
