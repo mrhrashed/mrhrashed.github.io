@@ -2,7 +2,7 @@
 
 Muhammad Rashed's Personal Website
 
-Muhammad Rashed is a Ph.D. candidate in Computer Engineering at University of Central Florida.
+Muhammad Rashed is a tenure-track assistant professor in the Department of Computer Science and Engineering (CSE) at the University of Texas at Arlington.
 
 ## Acknowledgement
 
