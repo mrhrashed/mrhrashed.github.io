@@ -70,15 +70,15 @@
 </div>
 <script async src="//www.instagram.com/embed.js"></script>
 <script>
-    window.onload = function() {
-        const instagrams = document.querySelectorAll('.instagram-media');
-        instagrams.forEach((instagram) => {
-            const comments = instagram.querySelector('.comments');
-            const likes = instagram.querySelector('.likes');
-            if (comments) comments.style.display = 'none';
-            if (likes) likes.style.display = 'none';
-        });
-    };
+    // Delay execution to allow the Instagram embed to load
+    setTimeout(function() {
+        // Hide the likes and comments sections
+        const likes = document.querySelectorAll('.your-likes-class'); // Replace with actual class
+        const comments = document.querySelectorAll('.your-comments-class'); // Replace with actual class
+        
+        likes.forEach(like => like.style.display = 'none');
+        comments.forEach(comment => comment.style.display = 'none');
+    }, 2000); // Adjust the delay as necessary
 </script>
 
 </body>
