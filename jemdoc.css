@@ -6,16 +6,6 @@ table#tlayout {
     background: white;
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #121212;
-        color: #ffffff;
-    }
-    a {
-        color: #bb86fc;
-    }
-    /* Add more dark mode-specific styling here */
-}
 
 
 body {
@@ -395,4 +385,15 @@ table.imgtable, table.imgtable td {
 @viewport {
   width: device-width ;
   zoom: 1.0 ;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #ffffff;
+    }
+    a {
+        color: #bb86fc;
+    }
+    /* Add more dark mode-specific styling here */
 }
