@@ -3,13 +3,13 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: black;
+    background: white;
 }
 
 
 
 body {
-	background: black;
+	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
@@ -42,7 +42,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: black;
+    background: white;
     text-align: left;
     vertical-align: top;
     width: auto;
@@ -387,13 +387,3 @@ table.imgtable, table.imgtable td {
   zoom: 1.0 ;
 }
 
-@media (prefers-color-scheme: light dark) {
-    body {
-        background-color: #121212;
-        color: #ffffff;
-    }
-    a {
-        color: #bb86fc;
-    }
-    /* Add more dark mode-specific styling here */
-}
